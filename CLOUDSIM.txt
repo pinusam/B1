@@ -1,0 +1,12 @@
+Eclipse Java IDE: https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/keplersr2
+Cloudsim Project Link: http://code.google.com/p/cloudsim/downloads/list or https://github.com/Cloudslab/cloudsim/releases/tag/cloudsim-3.0.3
+Common math jar Link: http://commons.apache.org/proper/commons-math/download_math.cgi
+"https://svn.win.tue.nl/trac/prom/export/4/Libraries/trunk/flanagan.jar" 
+
+
+
+Paste flagnan.jar to the jar folder of cloudsim.
+
+use all the math jar files.
+
+select the java project folder as cloudsim.

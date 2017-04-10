@@ -1,0 +1,9 @@
+https://cloud.google.com/appengine/downloads?csw=1
+
+choose python and download it.
+
+extract it to any folder-home.
+
+./google-cloud-sdk/install.sh
+
+./google-cloud-sdk/bin/gcloud init
