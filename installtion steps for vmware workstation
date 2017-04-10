@@ -1,0 +1,5 @@
+[root@localhost ~]# yum install kernel-headers kernel-devel gcc glibc-headers
+[root@localhost ~]# su -c "chmod +x ./VMware-Workstation*12*.bundle"
+[root@localhost ~]# su -c "./VMware-Workstation*12*.bundle"
+
+
